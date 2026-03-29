@@ -21,21 +21,15 @@ By completing this project, I have demonstrated:
 - Homepage with links to recipes
 - Multiple recipe pages
 - Ingredients and steps formatted with lists
-- Simple and clear layout
 
 ## What I Learned 
 Through this project, I learned:
-- How to build a simple multi-page website from scratch
+- How to build a simple multi-page website
 - The importance of proper HTML structure
 - How to connect pages using links
 - How to manage a project using Git
 
-## Installation & Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Veynoryx/odin-recipes.git
-Open the project folder
-Open index.html in your browser
+
 
 Acknowledgements
 
